@@ -1,4 +1,4 @@
-Hola!, soy Mariano!
+Hola, soy Mariano!
 
 ### 💻 &nbsp;Acerca de mi
 - :iphone: &nbsp; Desarrollador web y mobile.
